@@ -13,7 +13,7 @@ function App() {
           </p>
         </div>
       </div>
-      <div className="paragraf-content">
+      <div className="intro-content">
         <h2>more content D:</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis,
